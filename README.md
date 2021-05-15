@@ -1,7 +1,7 @@
 # BEAT ESTIMATION FROM MUSICIAN VISUAL CUES
  
 To run, just load the notebook and execute the cells.
-
+Just change the 'file' variable to 1,2,5 ....  and run 'all the cell below' to execute the cells. 
 Result
 ![image](https://user-images.githubusercontent.com/47362033/109463558-1fdc2380-7a5d-11eb-83a4-e30fe3e2229a.png)
 
